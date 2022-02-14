@@ -1,0 +1,21 @@
+{
+  "name": "blog-api-express",
+  "version": "1.0.0",
+  "description": "Simple blog API with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["blog", "api", "express"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
