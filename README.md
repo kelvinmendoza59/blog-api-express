@@ -28,4 +28,8 @@ npm start
 
 ## Status
 
-Work in progress - Frontend not implemented yet
+⚠️ Project incomplete - Backend functional, frontend planned but not started
+
+## Notes
+
+Originally planned to implement React frontend but decided to explore other technologies first.
