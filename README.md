@@ -1,5 +1,7 @@
 # Blog API
 
+> 📅 Developed in 2022 | Migrated to GitHub 2025
+
 Simple blog API with Express and planned React frontend.
 
 ## Tech Stack
